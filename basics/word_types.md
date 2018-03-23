@@ -1,6 +1,6 @@
 # Types of Words
 
-[Return to Index](README.md)
+[Return to Index](index.md)
 
 - [Nouns](#nouns)
   - [Proper Nouns](#proper-nouns)
